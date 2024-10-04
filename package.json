@@ -1,0 +1,13 @@
+{
+  "name": "nodeonrender",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/latnuk-mate/NodeOnRender.git",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "latnuk",
+  "license": "ISC",
+  "description": "A sample application for deployment on Render."
+}
