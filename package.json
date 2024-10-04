@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "latnuk",
   "license": "ISC",
-  "description": "A sample application for deployment on Render."
+  "description": "A sample application for deployment on Render.",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  }
 }
